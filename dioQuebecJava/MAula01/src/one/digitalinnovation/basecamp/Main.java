@@ -22,7 +22,10 @@ public class Main {
         Mensagem.obterMensagem( 1);
 
         // Empréstimo
-
+        System.out.println("Exercicio empréstimo");
+        Emprestimo.calcular( 1000, Emprestimo.getDuasParcela());
+        Emprestimo.calcular( 1000, Emprestimo.getTresParcela());
+        Emprestimo.calcular(1000, 5);
 
     }
 
