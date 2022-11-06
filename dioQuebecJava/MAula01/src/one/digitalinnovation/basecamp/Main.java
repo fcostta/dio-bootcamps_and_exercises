@@ -16,7 +16,10 @@ public class Main {
         Calculadora.divisao(5,2.5);
 
         // Mensagem
-
+        System.out.println("Exercicio mensagem");
+        Mensagem.obterMensagem( 9);
+        Mensagem.obterMensagem( 14);
+        Mensagem.obterMensagem( 1);
 
         // Empréstimo
 
