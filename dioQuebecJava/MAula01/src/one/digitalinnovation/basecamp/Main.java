@@ -1,7 +1,8 @@
 package one.digitalinnovation.basecamp;
 
 /**
- * Classe principal dos exercicios da Aula 1 de Métodos.
+ * Classe principal dos exercicios da Aula 1 de Métodos Bootcamp Java Quebec.
+ * Repositorio do professor: https://github.com/tlcdio/MAula01
  */
 
 public class Main {
